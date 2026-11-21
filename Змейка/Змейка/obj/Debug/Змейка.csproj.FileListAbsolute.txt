@@ -1,0 +1,28 @@
+C:\Users\Msi Cyborg\Desktop\змейка\Змейка\Змейка\bin\Debug\Змейка.exe.config
+C:\Users\Msi Cyborg\Desktop\змейка\Змейка\Змейка\bin\Debug\Змейка.exe
+C:\Users\Msi Cyborg\Desktop\змейка\Змейка\Змейка\bin\Debug\Змейка.pdb
+C:\Users\Msi Cyborg\Desktop\змейка\Змейка\Змейка\obj\Debug\Змейка.csproj.AssemblyReference.cache
+C:\Users\Msi Cyborg\Desktop\змейка\Змейка\Змейка\obj\Debug\MainWindow.baml
+C:\Users\Msi Cyborg\Desktop\змейка\Змейка\Змейка\obj\Debug\MainWindow.g.cs
+C:\Users\Msi Cyborg\Desktop\змейка\Змейка\Змейка\obj\Debug\App.g.cs
+C:\Users\Msi Cyborg\Desktop\змейка\Змейка\Змейка\obj\Debug\Змейка_MarkupCompile.cache
+C:\Users\Msi Cyborg\Desktop\змейка\Змейка\Змейка\obj\Debug\Змейка.g.resources
+C:\Users\Msi Cyborg\Desktop\змейка\Змейка\Змейка\obj\Debug\Змейка.Properties.Resources.resources
+C:\Users\Msi Cyborg\Desktop\змейка\Змейка\Змейка\obj\Debug\Змейка.csproj.GenerateResource.cache
+C:\Users\Msi Cyborg\Desktop\змейка\Змейка\Змейка\obj\Debug\Змейка.csproj.CoreCompileInputs.cache
+C:\Users\Msi Cyborg\Desktop\змейка\Змейка\Змейка\obj\Debug\Змейка.exe
+C:\Users\Msi Cyborg\Desktop\змейка\Змейка\Змейка\obj\Debug\Змейка.pdb
+D:\Рабочий стол\учеба саша\Змейка\Змейка\bin\Debug\Змейка.exe.config
+D:\Рабочий стол\учеба саша\Змейка\Змейка\bin\Debug\Змейка.exe
+D:\Рабочий стол\учеба саша\Змейка\Змейка\bin\Debug\Змейка.pdb
+D:\Рабочий стол\учеба саша\Змейка\Змейка\obj\Debug\Змейка.csproj.AssemblyReference.cache
+D:\Рабочий стол\учеба саша\Змейка\Змейка\obj\Debug\MainWindow.baml
+D:\Рабочий стол\учеба саша\Змейка\Змейка\obj\Debug\MainWindow.g.cs
+D:\Рабочий стол\учеба саша\Змейка\Змейка\obj\Debug\App.g.cs
+D:\Рабочий стол\учеба саша\Змейка\Змейка\obj\Debug\Змейка_MarkupCompile.cache
+D:\Рабочий стол\учеба саша\Змейка\Змейка\obj\Debug\Змейка.g.resources
+D:\Рабочий стол\учеба саша\Змейка\Змейка\obj\Debug\Змейка.Properties.Resources.resources
+D:\Рабочий стол\учеба саша\Змейка\Змейка\obj\Debug\Змейка.csproj.GenerateResource.cache
+D:\Рабочий стол\учеба саша\Змейка\Змейка\obj\Debug\Змейка.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\учеба саша\Змейка\Змейка\obj\Debug\Змейка.exe
+D:\Рабочий стол\учеба саша\Змейка\Змейка\obj\Debug\Змейка.pdb
